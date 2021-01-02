@@ -1,7 +1,5 @@
 package JavaGenerics.GenericDemo02;
 
-import javax.sound.midi.Soundbank;
-
 public class TestGeneric {
     public static void main(String[] args) {
         // integer

@@ -2,8 +2,6 @@ package JavaGenerics.GenericDemo01;
 
 import java.util.ArrayList;
 
-import javax.print.DocFlavor.STRING;
-
 public class Demo01 {
     public static void main(String[] args) {
         // ArrayList list = new ArrayList();

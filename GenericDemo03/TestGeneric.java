@@ -6,5 +6,11 @@ public class TestGeneric {
         cld1.setValue("checkout");
         String s = cld1.getValue();
         System.out.println(s);
+
+        System.out.println("----------------------------");
+        ChildSecond cld2 = new ChildSecond();
+        cld2.setValue("ohhh");
+        String s1 = cld2.getValue();
+        System.out.println(s1);
     }
 }
